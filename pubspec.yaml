@@ -17,7 +17,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   mason_cli: ^0.1.2
-  very_good_cli: ^0.25.0
+  #very_good_cli: ^0.25.0
 
 flutter:
   uses-material-design: true
